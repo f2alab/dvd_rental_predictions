@@ -1,6 +1,6 @@
 # In this project, you will use regression models to predict the number of days a customer rents DVDs for.
 
-As with most data science projects, we will need to pre-process the data provided, in this case, a csv file called dvd_rental_infos.csv. Specifically:
+## As with most data science projects, we will need to pre-process the data provided, in this case, a csv file called `dvd_rental_infos.csv`. Specifically:
 
 ### 1. Read in the csv file rental_info.csv using pandas.
 ### 2. Create a column named "rental_length_days" using the columns "return_date" and "rental_date", and add it to the pandas DataFrame. This column should contain information on how many days a DVD has been rented by a customer.
