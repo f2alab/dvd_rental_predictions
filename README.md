@@ -1,4 +1,4 @@
-# In this project, you will use regression models to predict the number of days a customer rents DVDs for.
+# In this project, we will use regression models to predict the number of days a customer rents DVDs for.
 
 ## As with most data science projects, we will need to pre-process the data provided, in this case, a csv file called `dvd_rental_infos.csv`. Specifically:
 
